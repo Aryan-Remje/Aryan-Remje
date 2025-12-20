@@ -1,4 +1,4 @@
-# 👋 Hi, I'm NOX
+# 👋 Hi, I'm Aryan
 
 **Embedded Systems & Game Developer**  
 ESP32 | Firebase | Networking | System Design
