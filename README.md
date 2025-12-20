@@ -48,7 +48,7 @@ My work focuses on **embedded systems, IoT architectures, and game development**
 ## 📫 Connect With Me
 - 📧 Email: (visible on profile)
 - 🌐 GitHub: https://github.com/yourusername
-- 📸 Instagram: 
+- 📸 Instagram: https://www.instagram.com/aaryanremje/#
 
 ---
 
