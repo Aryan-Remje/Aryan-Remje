@@ -34,6 +34,16 @@ My work focuses on **embedded systems, IoT architectures, and game development**
 - TCP/IP and OSI model
 - Firewall Basics
 - Client–Server Communication
+
+---
+
+## 🚧 Current Focus
+- Embedded Systems & IoT fundamentals
+- ESP32-based system architectures
+- Networking concepts
+- Indie game development
+
+> Actively building projects and documenting progress here.
   
 ---
 
