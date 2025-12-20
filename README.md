@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm NOX
 
-<!--
-**Aryan-Remje/Aryan-Remje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems & Game Developer**  
+ESP32 | Firebase | Networking | System Design
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I build real-world systems by combining hardware, software, and networking.  
+My work focuses on **embedded systems, IoT architectures, and game development**, with an emphasis on clean system design and scalability.
+
+---
+
+## 🛠 Tech Stack
+**Embedded & IoT**
+- ESP32 / ESP8266
+- Sensors & Actuators
+- NRF24L01
+
+**Backend & Cloud**
+- Firebase Realtime Database
+- REST APIs
+
+**Programming**
+- C / C++
+- Python
+
+**Tools**
+- KiCad (PCB Design)
+- Git & GitHub
+- Linux
+
+**Networking**
+- TCP/IP and OSI model
+- Firewall Basics
+- Client–Server Communication
+  
+---
+
+## 📌 What I Focus On
+- System Architecture
+- Reliable data flow
+- Hardware–software integration
+- Scalable and maintainable designs
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: (visible on profile)
+- 🌐 GitHub: https://github.com/yourusername
+- 📸 Instagram: 
+
+---
+
+> *I believe good systems are built, not rushed.*
