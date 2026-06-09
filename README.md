@@ -61,7 +61,6 @@ Status   : Open to Work 🟢
 
 </div>
 
----
 
 ---
 
