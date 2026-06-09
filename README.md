@@ -63,10 +63,6 @@ Status   : Open to Work 🟢
 
 ---
 
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Remje&theme=tokyo-night&hide_border=true)
-
 ---
 
 ### 🌐 Connect With Me
